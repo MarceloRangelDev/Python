@@ -50,9 +50,3 @@ def verficaCartao(temCard):
 
 cartao = input("Tem cartão? Digite S ou N: \n")
 verficaCartao(cartao)
-
-
-
-
-
-    
