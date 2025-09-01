@@ -1,0 +1,43 @@
+
+'''
+Aula 3 - 11/08/2025
+Operadores Aritméticos
+
+'''
+num_1 = 7 % 2
+num_2 = 2 ** 3
+num_3 = 4 // 3
+
+# print(f"7 % 2 = {num_1}")
+
+# print("2 ** 3 = ", num_2)
+
+# print("4 // 3 = ", num_3)
+
+a = 30
+b = 'Bom'
+
+# print(a,b)
+# print(type(a), type(b))
+
+# print(isinstance(a, int))
+
+x = 50
+y = x
+
+# print(x, y)
+
+y = 100
+
+# print (x, y)
+
+a = 5
+if a > 0:
+    print("ok")
+
+cidade = input("Digite o nome da sua cidade: ")
+
+if cidade == "Maricá":
+    print("A cidade de Maricá tem uma linda natureza!")
+
+print("A cidade de Maricá tem uma linda natureza! 2") if cidade == "Maricá" else print(f"Você mora {cidade}")
