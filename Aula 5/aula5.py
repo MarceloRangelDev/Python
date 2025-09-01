@@ -12,7 +12,7 @@ Aula 5 - 18/08/2025
 
 # print(f"levará {contador} anos")
 
-
+# loop principal
 while True:
     opt = input("1-Ver, 2-Editar, 3-Sair\n")
 

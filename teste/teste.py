@@ -1,1 +1,1 @@
-print("ok")
+print("ok") # ATIVIDADES/Atividade-2-LogicadeProgramacao.py

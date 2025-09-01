@@ -4,6 +4,7 @@ Aula 4 - 13/08/2025
 
 # DESCOBRINDO SE O ANO DIGITADO É BISEXTO
 
+# função para verificar se o ano é bissexto
 def anoBisexto():
     anoDigitado = int(input("Digite o ano...\n"))
     condicao400 = anoDigitado % 400 == 0

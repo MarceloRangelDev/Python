@@ -22,6 +22,7 @@ showMultipleTexts()
 def showPersonalidada(nome):
     print(f"Olá, {nome}")
 
+# função para solicitar nome
 inputNome = input("Digite seu nome\n")
 showPersonalidada(inputNome)
 # função motico para aprender

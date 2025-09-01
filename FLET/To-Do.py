@@ -1,5 +1,6 @@
 import flet as ft
 
+# Função principal
 def main(page):
     def add_clicked(e):
         page.add(ft.Checkbox(label=new_task.value))

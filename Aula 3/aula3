@@ -14,6 +14,7 @@ num_3 = 4 // 3
 
 # print("4 // 3 = ", num_3)
 
+# print("30 é do tipo:", type(a))
 a = 30
 b = 'Bom'
 

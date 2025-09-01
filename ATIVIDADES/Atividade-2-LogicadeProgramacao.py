@@ -117,6 +117,7 @@ def calcular_primeiro_periodo(valor_inicial, taxa_juros, aporte_mensal):
     # Adiciona o aporte mensal
     total = semi_total + aporte_mensal
 
+    # Exibe os detalhes do cálculo
     print(f"Valor inicial: R$ {valor_inicial:.2f}") 
     print(f"Rendimento por período: {taxa_juros:.2f}%")
     print(f"Aporte por período: R$ {aporte_mensal:.2f}")
