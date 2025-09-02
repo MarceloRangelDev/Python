@@ -51,9 +51,12 @@ Este repositório contém a **Atividade 1** da disciplina de **Back-End Python**
 ---
 
 ## 📂 Estrutura do Repositório
-.__
-├── src__
-│   ├── variaveis.py
+.␣␣
+
+├── src␣␣
+
+│   ├── variaveis.py__
+
 │   └── testes.py
 ├── README.md
 └── requirements.txt
