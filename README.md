@@ -52,9 +52,13 @@ Este repositório contém a **Atividade 1** da disciplina de **Back-End Python**
 
 ## 📂 Estrutura do Repositório
 .
+
 ├── src
+
 │   ├── variaveis.py
+
 │   └── testes.py
+
 ├── README.md
 
 └── requirements.txt
@@ -80,16 +84,26 @@ venv\Scripts\activate      # Windows
 **Exemplo de tipos de variáveis**
 
 inteiro = 10          # int
+
 decimal = 3.14        # float
+
 texto = "Olá, Python" # str
+
 booleano = True       # bool
+
 lista = [1, 2, 3]     # list
+
 tupla = (4, 5, 6)     # tuple
+
 dicionario = {"a": 1, "b": 2}  # dict
 
+
 print(type(inteiro))
+
 print(type(decimal))
+
 print(type(texto))
+
 print(type(lista))
 
 ## 👨‍🏫 Créditos
